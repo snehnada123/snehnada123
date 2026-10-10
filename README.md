@@ -11,13 +11,7 @@ currently exploring AI agents, MCP, LLMs, and a bit of everything in between.
 
 ---
 
-**things that keep me curious**
-
-- making AI agents actually useful
-- backend systems and infrastructure
-- self-hosting stuff just to see if i can
-- open source and interesting developer tools
-- understanding what's happening under the hood
+<img width="1456" height="816" alt="Tatiana_Tsiguleva_ _--ar_9151_--sref_4220682647_1135114874_--_16ad327f-52c0-4482-83bb-f66dc5ddd3b6_3" src="https://github.com/user-attachments/assets/da5d8f3b-ab1b-4ee7-8df8-9a89d916e311" />
 
 **currently tinkering with**
 
